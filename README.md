@@ -14,6 +14,7 @@
 ## Libros                                                           
 * [Phaser: From Null to Full HTML5 Cross Platform Game](http://www.emanueleferonato.com/2015/06/08/get-my-first-indie-minibook-from-null-to-full-html5-cross-platform-game/)
 * [Challenges for Game designers](http://ircg.ir/Lib/challenges-for-game-designers.pdf)
+* [Procedural Content Generation in Games](http://pcgbook.com/)
 
 ## Marketing                                                        
 * [The Challenge: Making Games for Latin America](http://www.gamasutra.com/blogs/StephanieProdanovich/20150622/246681/The_Challenge_Making_Games_for_Latin_America.php)
